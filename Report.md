@@ -12,8 +12,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 * Ошибка работы приложения KeyValidator: <https://github.com/ElenaDom/Java-KeyValidator/issues/1>
-* <https://github.com/ElenaDom/Java-KeyValidator/issues/2>
-* <https://github.com/ElenaDom/Java-KeyValidator/issues/3>
+* Ошибка при вводе валидных значений <https://github.com/ElenaDom/Java-KeyValidator/issues/2>
+* Ошибка при вводе невалидных значений <https://github.com/ElenaDom/Java-KeyValidator/issues/3>
 
 # Описание процесса тестирования
 
