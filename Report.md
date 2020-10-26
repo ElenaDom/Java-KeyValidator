@@ -8,10 +8,10 @@
 Проведено функциональное тестирование
 
 
-На тестирование затрачено: <2 часа>
+На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* <https://github.com/ElenaDom/Java-KeyValidator/issues/1>
+* Ошибка работы приложения KeyValidator: <https://github.com/ElenaDom/Java-KeyValidator/issues/1>
 * <https://github.com/ElenaDom/Java-KeyValidator/issues/2>
 * <https://github.com/ElenaDom/Java-KeyValidator/issues/3>
 
@@ -40,5 +40,5 @@
 
 
 # Тестирование производилось в следующем окружении:
-MacBook Air (13-inch, 2017) Версия: Бета 11.0 (20A5384c)
-Java "11.0.9" 2020-10-20
+* MacBook Air (13-inch, 2017) Версия: Бета 11.0 (20A5384c)
+* Java "11.0.9" 2020-10-20
